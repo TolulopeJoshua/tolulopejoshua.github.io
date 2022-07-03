@@ -40,6 +40,6 @@
   }
 
   @keyframes drop {
-    from {translateY: -10vh; opacity: 0;}
-    to {translateY: 0; opacity: 1;}
+    from {top: 0; opacity: 0;}
+    to {top: 10vh; opacity: 1;}
   }
