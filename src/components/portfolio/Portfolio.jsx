@@ -3,9 +3,9 @@ import './portfolio.css'
 import IMG1 from '../../assets/fasion-store.jpg'
 import IMG2 from '../../assets/elibrary.jpg'
 import IMG3 from '../../assets/quiz-app.jpg'
-import IMG4 from '../../assets/portfolio4.jpg'
-import IMG5 from '../../assets/portfolio5.png'
-import IMG6 from '../../assets/portfolio6.jpg'
+// import IMG4 from '../../assets/portfolio4.jpg'
+// import IMG5 from '../../assets/portfolio5.png'
+// import IMG6 from '../../assets/portfolio6.jpg'
 
 const Portfolio = () => {
   return (
