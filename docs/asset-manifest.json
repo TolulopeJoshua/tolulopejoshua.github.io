@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e1f98f91.css",
+    "main.js": "/static/js/main.7d5bf6fa.js",
+    "static/media/portfolio5.png": "/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
+    "static/media/my-passport.jpg": "/static/media/my-passport.54a5243110cf3fc72f09.jpg",
+    "static/media/fasion-store.jpg": "/static/media/fasion-store.549cf81e11044e467bdf.jpg",
+    "static/media/portfolio6.jpg": "/static/media/portfolio6.72d1107e313049cf15a7.jpg",
+    "static/media/elibrary.jpg": "/static/media/elibrary.00093f54e92b08e3272d.jpg",
+    "static/media/quiz-app.jpg": "/static/media/quiz-app.f0dcc13358508e0bd1b2.jpg",
+    "static/media/portfolio4.jpg": "/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
+    "index.html": "/index.html",
+    "main.e1f98f91.css.map": "/static/css/main.e1f98f91.css.map",
+    "main.7d5bf6fa.js.map": "/static/js/main.7d5bf6fa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e1f98f91.css",
+    "static/js/main.7d5bf6fa.js"
+  ]
+}
