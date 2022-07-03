@@ -19,6 +19,9 @@
     max-width: 90%;
     z-index: 100;
     overflow: hidden;
+    border: 5px solid white;
+    animation-name: drop;
+    animation-duration: 1s;
   }
 
   .modal-button {
@@ -34,4 +37,9 @@
   .modal-button:hover {
     color: var(--color-white);
     cursor: pointer;
+  }
+
+  @keyframes drop {
+    from {translateY: -10vh; opacity: 0;}
+    to {translateY: 0; opacity: 1;}
   }

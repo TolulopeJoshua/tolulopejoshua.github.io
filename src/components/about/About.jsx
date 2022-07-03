@@ -74,7 +74,7 @@ const About = () => {
             Hard-working web developer with a flair for creating elegant solutions in the least amount of time. Developed an ecommerce webapp, an inventory store api, online bookstore website, and ios/android app for a not-for-profit organization. Passionate about software architecture and cloud computing. Regular attendee of web developer meetups and hackathons.          
           </p>
 
-          <a href="#contace" className='btn btn-primary'>Let's Talk</a>
+          <a href="#contact" className='btn btn-primary'>Let's Talk</a>
         </div>
       </div>
     </section>
