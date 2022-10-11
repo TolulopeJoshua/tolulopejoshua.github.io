@@ -17,11 +17,7 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <BsCheck className='service__list-icon'/>
-              <p>Design websites.</p>
-            </li>
-            <li>
-              <BsCheck className='service__list-icon'/>
-              <p>Produce process flows, create infographics and design motion graphics.</p>
+              <p>Design, develop, and optimize UI.</p>
             </li>
             <li>
               <BsCheck className='service__list-icon'/>
@@ -29,11 +25,19 @@ const Services = () => {
             </li>
             <li>
               <BsCheck className='service__list-icon'/>
-              <p>Design and create responsive website wireframes.</p>
+              <p>Experience building applications with HTML, CSS, SCSS, Javascript and Typescript.</p>
             </li>
             <li>
               <BsCheck className='service__list-icon'/>
-              <p>Analyze user behaviour and survey customers.</p>
+              <p>Experience with design tools like Figma and Frameworks such as Bootstrap.</p>
+            </li>
+            <li>
+              <BsCheck className='service__list-icon'/>
+              <p>Good understanding of front-end technologies such as ReactJS, VueJS.</p>
+            </li>
+            <li>
+              <BsCheck className='service__list-icon'/>
+              <p>Write unit and UI tests to identify malfunctions.</p>
             </li>
           </ul>
         </article>
@@ -46,32 +50,32 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <BsCheck className='service__list-icon'/>
-              <p>Write well designed, testable, efficient code by using best software development practices.</p>
+              <p>Design and implement backend infrastructure and APIs.</p>
             </li>
             <li>
               <BsCheck className='service__list-icon'/>
-              <p>Integrate data from various back-end services and databases.</p>
+              <p>Good understanding of deployment tools such as Docker, Kubernetes & Jenkins.</p>
             </li>
             <li>
               <BsCheck className='service__list-icon'/>
-              <p>Transform data/files to meet UI/UX specifications.</p>
+              <p>Familiar with SQL/NoSQL databases and their declarative query languages.</p>
             </li>
             <li>
               <BsCheck className='service__list-icon'/>
-              <p>Create and maintain software documentation</p>
+              <p>Hands on experience with AWS.</p>
             </li>
             <li>
               <BsCheck className='service__list-icon'/>
-              <p>Aware of emerging technologies and industry trends.</p>
+              <p>Implement effective security protocols, data protection measures, and storage solutions.</p>
             </li>
             <li>
               <BsCheck className='service__list-icon'/>
               <p>Good understanding of web application security, and session management.</p>
             </li>
-            {/* <li>
+            <li>
               <BsCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sed, ipsa!</p>
-            </li> */}
+              <p>REST server architecture and automated testing.</p>
+            </li>
           </ul>
         </article>
         
@@ -83,23 +87,31 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <BsCheck className='service__list-icon'/>
+              <p>Translate designs and wireframes into high quality native code.</p>
+            </li>
+            <li>
+              <BsCheck className='service__list-icon'/>
+              <p>Experience with building Apps with Android SDK, Java/Kotlin.</p>
+            </li>
+            <li>
+              <BsCheck className='service__list-icon'/>
+              <p>Experience with React Native applications.</p>
+            </li>
+            <li>
+              <BsCheck className='service__list-icon'/>
+              <p>Experience with Google play services and Firebase.</p>
+            </li>
+            <li>
+              <BsCheck className='service__list-icon'/>
               <p>Develop application programming interfaces (APIs) to support mobile functionality.</p>
             </li>
             <li>
               <BsCheck className='service__list-icon'/>
-              <p>Implement new mobile products, applications and protocols.</p>
+              <p>Develop and maintain lightweight applications that can run seamlessly on any device.</p>
             </li>
             <li>
               <BsCheck className='service__list-icon'/>
-              <p>Up to date with the terminology, concepts and best practices for coding mobile apps.</p>
-            </li>
-            <li>
-              <BsCheck className='service__list-icon'/>
-              <p>Write unit and UI tests to identify malfunctions.</p>
-            </li>
-            <li>
-              <BsCheck className='service__list-icon'/>
-              <p>Communicate with users to understand their needs and experiences.</p>
+              <p>Unit-test code for robustness, usability, and general reliability.</p>
             </li>
           </ul>
         </article>

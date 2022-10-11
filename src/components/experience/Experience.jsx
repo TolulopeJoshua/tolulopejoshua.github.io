@@ -15,21 +15,14 @@ const Experience = () => {
             <article className="experience__details">
               <BsPatchCheckFill className='experience__details-icon'/>
               <div>
-                <h4>HTML</h4>
+                <h4>HTML / CSS</h4>
                 <small className="text-light">Experienced</small>
               </div>
             </article>
             <article className="experience__details">
               <BsPatchCheckFill className='experience__details-icon'/>
               <div>
-                <h4>CSS</h4>
-                <small className="text-light">Experienced</small>
-              </div>
-            </article>
-            <article className="experience__details">
-              <BsPatchCheckFill className='experience__details-icon'/>
-              <div>
-                <h4>Javascript</h4>
+                <h4>JS / TS</h4>
                 <small className="text-light">Experienced</small>
               </div>
             </article>
@@ -43,7 +36,14 @@ const Experience = () => {
             <article className="experience__details">
               <BsPatchCheckFill className='experience__details-icon'/>
               <div>
-                <h4>React</h4>
+                <h4>Tailwind</h4>
+                <small className="text-light">Experienced</small>
+              </div>
+            </article>
+            <article className="experience__details">
+              <BsPatchCheckFill className='experience__details-icon'/>
+              <div>
+                <h4>React / Vue</h4>
                 <small className="text-light">Experienced</small>
               </div>
             </article>
@@ -51,7 +51,7 @@ const Experience = () => {
               <BsPatchCheckFill className='experience__details-icon'/>
               <div>
                 <h4>NextJs</h4>
-                <small className="text-light">Intermediate</small>
+                <small className="text-light">Experienced</small>
               </div>
             </article>
           </div>

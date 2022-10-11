@@ -60,18 +60,21 @@ const About = () => {
             <article className="about__card">
               <FiUsers className='about__icon'/>
               <h5>Clients</h5>
-              <small>120+ Worldwide</small>
+              <small>30+ Worldwide</small>
             </article>
 
             <article className="about__card">
               <VscFolderLibrary className='about__icon'/>
               <h5>Projects</h5>
-              <small>80+ Completed</small>
+              <small>30+ Completed</small>
             </article>
           </div>
 
           <p>
-            Hard-working web developer with a flair for creating elegant solutions in the least amount of time. Developed an ecommerce webapp, an inventory store api, online bookstore website, and ios/android app for a not-for-profit organization. Passionate about software architecture and cloud computing. Regular attendee of web developer meetups and hackathons.          
+            Diligent software engineer with 3+ years of experience in commercial application and software development. 
+            Eager to build innovative and cutting-edge business solutions for clients. 
+            Developed an ecommerce webapp, an inventory store api, online bookstore website, 
+            and an android application for a not-for-profit organization.
           </p>
 
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
