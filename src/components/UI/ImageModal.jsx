@@ -11,7 +11,7 @@ const Backdrop = (props) => {
 const ModalOverlay = (props) => {
   return (
     <>
-        <img className='modal' src={props.image} alt="me" />
+        <img className='modal' width={200} height={400} src={props.image} alt="me" />
         <AiOutlineClose className='modal-button' onClick={props.onClose}/>
     </>
   );
