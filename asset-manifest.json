@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.efd18550.css",
-    "main.js": "/static/js/main.d0e09674.js",
+    "main.css": "/static/css/main.e8a119e7.css",
+    "main.js": "/static/js/main.a4d03a39.js",
     "static/media/my-passport2.jpg": "/static/media/my-passport2.06e1c7a0ba2c74bdbeae.jpg",
     "static/media/resume_mern.pdf": "/static/media/resume_mern.9600834fb2759cfa226c.pdf",
     "static/media/my-passport.jpg": "/static/media/my-passport.54a5243110cf3fc72f09.jpg",
@@ -12,11 +12,11 @@
     "static/media/quiz-app.jpg": "/static/media/quiz-app.f0dcc13358508e0bd1b2.jpg",
     "static/media/planner.jfif": "/static/media/planner.b8a06ddfcd646834f408.jfif",
     "index.html": "/index.html",
-    "main.efd18550.css.map": "/static/css/main.efd18550.css.map",
-    "main.d0e09674.js.map": "/static/js/main.d0e09674.js.map"
+    "main.e8a119e7.css.map": "/static/css/main.e8a119e7.css.map",
+    "main.a4d03a39.js.map": "/static/js/main.a4d03a39.js.map"
   },
   "entrypoints": [
-    "static/css/main.efd18550.css",
-    "static/js/main.d0e09674.js"
+    "static/css/main.e8a119e7.css",
+    "static/js/main.a4d03a39.js"
   ]
 }
