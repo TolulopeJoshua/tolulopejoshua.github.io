@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.60b43e9d.css",
-    "main.js": "/portfolio/static/js/main.ae6b9a6f.js",
-    "static/media/my-passport2.jpg": "/portfolio/static/media/my-passport2.06e1c7a0ba2c74bdbeae.jpg",
-    "static/media/resume_mern.pdf": "/portfolio/static/media/resume_mern.9600834fb2759cfa226c.pdf",
-    "static/media/my-passport.jpg": "/portfolio/static/media/my-passport.54a5243110cf3fc72f09.jpg",
-    "static/media/fasion-store.jpg": "/portfolio/static/media/fasion-store.549cf81e11044e467bdf.jpg",
-    "static/media/publiclib.png": "/portfolio/static/media/publiclib.70fc29f2a6cca4659846.png",
-    "static/media/dealership.jpg": "/portfolio/static/media/dealership.17f779ba3aafa33f2f4d.jpg",
-    "static/media/elibrary.jpg": "/portfolio/static/media/elibrary.00093f54e92b08e3272d.jpg",
-    "static/media/quiz-app.jpg": "/portfolio/static/media/quiz-app.f0dcc13358508e0bd1b2.jpg",
-    "static/media/planner.jfif": "/portfolio/static/media/planner.b8a06ddfcd646834f408.jfif",
-    "index.html": "/portfolio/index.html",
-    "main.60b43e9d.css.map": "/portfolio/static/css/main.60b43e9d.css.map",
-    "main.ae6b9a6f.js.map": "/portfolio/static/js/main.ae6b9a6f.js.map"
+    "main.css": "/static/css/main.60b43e9d.css",
+    "main.js": "/static/js/main.d0e09674.js",
+    "static/media/my-passport2.jpg": "/static/media/my-passport2.06e1c7a0ba2c74bdbeae.jpg",
+    "static/media/resume_mern.pdf": "/static/media/resume_mern.9600834fb2759cfa226c.pdf",
+    "static/media/my-passport.jpg": "/static/media/my-passport.54a5243110cf3fc72f09.jpg",
+    "static/media/fasion-store.jpg": "/static/media/fasion-store.549cf81e11044e467bdf.jpg",
+    "static/media/publiclib.png": "/static/media/publiclib.70fc29f2a6cca4659846.png",
+    "static/media/dealership.jpg": "/static/media/dealership.17f779ba3aafa33f2f4d.jpg",
+    "static/media/elibrary.jpg": "/static/media/elibrary.00093f54e92b08e3272d.jpg",
+    "static/media/quiz-app.jpg": "/static/media/quiz-app.f0dcc13358508e0bd1b2.jpg",
+    "static/media/planner.jfif": "/static/media/planner.b8a06ddfcd646834f408.jfif",
+    "index.html": "/index.html",
+    "main.60b43e9d.css.map": "/static/css/main.60b43e9d.css.map",
+    "main.d0e09674.js.map": "/static/js/main.d0e09674.js.map"
   },
   "entrypoints": [
     "static/css/main.60b43e9d.css",
-    "static/js/main.ae6b9a6f.js"
+    "static/js/main.d0e09674.js"
   ]
 }
