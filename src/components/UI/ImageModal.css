@@ -10,13 +10,14 @@
 
   .modal {
     position: fixed;
-    top: 10vh;
-    height: auto;
+    height: 500px;
     max-height: 80vh;
+    top: 10vh;
     left: 50%;
     transform: translateX(-50%);
-    width: auto;
+    width: 380px;
     max-width: 90%;
+    object-fit:fill;
     z-index: 100;
     overflow: hidden;
     border: 5px solid white;
