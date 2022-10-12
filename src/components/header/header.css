@@ -37,24 +37,27 @@ header {
 }
 
 .me {
-    width: 16rem;
+    width: 10rem;
     height: auto;
     margin-left: auto;
     margin-right: auto;
-    opacity: 40%;
+    opacity: 60%;
     /* position: absolute;
     left: calc(50% - 11rem); */
     margin-top: 6rem;
-    border-radius: 50%;
-    overflow: hidden;
-    box-shadow: 5px 5px 1px 1px black;
+    border-radius: 20%;
+    box-shadow: 10px 10px 1px 1px black;
     transition: var(--transition);
 }
 
 .me:hover {
-    opacity: 70%;
-    border-radius: 20%;
+    opacity: 80%;
     cursor: pointer;
+    box-shadow: 3px 3px 1px 1px black;
+}
+
+.me img {
+    border-radius: 20%;
 }
 
 @media screen and (max-width: 600px) {
