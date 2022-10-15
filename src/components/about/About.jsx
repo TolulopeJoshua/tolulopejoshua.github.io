@@ -73,8 +73,7 @@ const About = () => {
           <p>
             Diligent software engineer with 3+ years of experience in commercial application and software development. 
             Eager to build innovative and cutting-edge business solutions for clients. 
-            Developed an ecommerce webapp, an inventory store api, online bookstore website, 
-            and an android application for a not-for-profit organization.
+            I am also passionate about learning latest developments and technologies.
           </p>
 
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
