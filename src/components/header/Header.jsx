@@ -7,6 +7,7 @@ import passport from '../../assets/my-passport.jpg'
 import passport2 from '../../assets/my-passport2.jpg'
 import {FaLongArrowAltDown} from 'react-icons/fa'
 import Typed from 'typed.js'
+import anime from 'animejs'
 
 const Header = () => {
 
@@ -17,7 +18,7 @@ const Header = () => {
   
   useEffect(() => {
     const options = {
-    	strings: ['Tolulope', 'Joshua', 'Tolulope ^1000 Joshua'],
+    	strings: ['Tolulope ^1000 Joshua'],
       typeSpeed: 150,
       backSpeed: 50,
       startDelay: 2000,
@@ -25,6 +26,17 @@ const Header = () => {
     };
     
     typed.current = new Typed(el.current, options);
+
+    anime({
+      targets: '.drop-down',
+      keyframes: [
+        {translateY: -500, duration: 0},
+        {translateY: 0}
+      ],
+      delay: 7000,
+      duration: 3000,
+      easing: 'easeOutElastic(1, .8)',
+    });
     
     return () => {
       typed.current.destroy();
@@ -39,7 +51,7 @@ const Header = () => {
         <h1>
           <span ref={el}></span>
         </h1>
-        <h5 className="text-light">Fullstack Developer</h5>
+        <h5 className="text-light drop-down">Fullstack Developer</h5>
         <CTA/>
         <HeaderSocials />
         <a href="#contact" ><FaLongArrowAltDown className='header__scroll' /></a>
