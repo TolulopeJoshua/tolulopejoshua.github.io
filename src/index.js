@@ -3,8 +3,7 @@ import App from './App'
 import './index.css'
 import Aos from 'aos'
 import 'aos/dist/aos.css'
-
-Aos.init({offset: 500, duration: 600});
+Aos.init({offset: 300, duration: 600});
 
 const root = ReactDom.createRoot(document.querySelector('#root'))
 root.render(<App/>)
