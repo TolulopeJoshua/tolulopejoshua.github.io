@@ -28,13 +28,13 @@ const Contact = () => {
 
       <div className="container contact__container">
         <div className="contact__options">
-          <article className="contact__option">
+          <article data-aos="zoom-out-down" className="contact__option">
             <MdOutlineEmail className='contact__option-icon'/>
             <h4>Email</h4>
             <h5>babtol235@gmail.com</h5>
             <a href="mailto:babtol235@gmail.com" target='_blank' rel="noreferrer">Send a message</a>
           </article>
-          <article className="contact__option">
+          <article data-aos="zoom-out-up" className="contact__option">
             <BsWhatsapp className='contact__option-icon'/>
             <h4>Whatsapp</h4>
             <h5>+2347041147115</h5>
@@ -42,7 +42,7 @@ const Contact = () => {
           </article>
         </div>
 
-        <form ref={form} onSubmit={sendEmail}>
+        <form data-aos="zoom-in" ref={form} onSubmit={sendEmail}>
           <input type="text" name='name' placeholder='Your Full Name' required/>
           <input type="email" name='email' placeholder='Your Email' required/>
           <textarea name="message" placeholder='Your Message' id="" rows="7" required></textarea>

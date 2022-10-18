@@ -14,7 +14,7 @@ const Portfolio = () => {
       <h2>Portfolio</h2>
 
       <div className="container portfolio__container">
-        <article className="portfolio__item">
+        <article data-aos="flip-up" className="portfolio__item">
           <div className="portfolio__item-image">
             <img src={IMG4} alt="dealership" />
           </div>
@@ -24,7 +24,7 @@ const Portfolio = () => {
             <a href="https://dealershop.vercel.app//" className="btn btn-primary" target='_blank' rel="noreferrer">Live Demo</a>
           </div>
         </article>
-        <article className="portfolio__item">
+        <article data-aos="flip-up" className="portfolio__item">
           <div className="portfolio__item-image">
             <img src={IMG2} alt="" />
           </div>
@@ -34,7 +34,7 @@ const Portfolio = () => {
             <a href="https://godinprints.org/biographies/" className="btn btn-primary" target='_blank' rel="noreferrer">Live Demo</a>
           </div>
         </article>
-        <article className="portfolio__item">
+        <article data-aos="flip-up" className="portfolio__item">
           <div className="portfolio__item-image">
             <img src={IMG1} alt="" />
           </div>
@@ -44,7 +44,7 @@ const Portfolio = () => {
             <a href="https://mabel-fashion-store.web.app/" className="btn btn-primary" target='_blank' rel="noreferrer">Live Demo</a>
           </div>
         </article>
-        <article className="portfolio__item">
+        <article data-aos="flip-down" className="portfolio__item">
           <div className="portfolio__item-image">
             <img src={IMG5} alt="" />
           </div>
@@ -54,7 +54,7 @@ const Portfolio = () => {
             <a href="https://public-library-alpha.vercel.app/" className="btn btn-primary" target='_blank' rel="noreferrer">Live Demo</a>
           </div>
         </article>
-        <article className="portfolio__item">
+        <article data-aos="flip-down" className="portfolio__item">
           <div className="portfolio__item-image">
             <img src={IMG6} alt="" />
           </div>
@@ -64,7 +64,7 @@ const Portfolio = () => {
             <a href="https://play.google.com/store/apps/details?id=com.ToluJosh.biblereadingplanner" className="btn btn-primary" target='_blank' rel="noreferrer">Live Demo</a>
           </div>
         </article>
-        <article className="portfolio__item">
+        <article data-aos="flip-down" className="portfolio__item">
           <div className="portfolio__item-image">
             <img src={IMG3} alt="" />
           </div>
