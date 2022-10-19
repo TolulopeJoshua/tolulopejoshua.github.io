@@ -4,6 +4,7 @@ footer {
     text-align: center;
     font-size: 0.9rem;
     margin-top: 7rem;
+    position: relative;
 }
 
 footer a {
@@ -50,6 +51,14 @@ footer a {
 .footer__copyright {
     margin-bottom: 4rem;
     color: var(--color-bg);
+}
+
+.baller {
+    position: absolute;
+    left: 10%;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 10%;
 }
 
 @media screen and (max-width: 600px) {

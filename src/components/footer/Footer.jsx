@@ -2,6 +2,7 @@ import React from 'react'
 import './footer.css'
 import {FaLinkedinIn} from 'react-icons/fa'
 import {AiOutlineTwitter} from 'react-icons/ai'
+import baller from '../../assets/baller.gif'
 
 const Footer = () => {
   return (
@@ -24,6 +25,9 @@ const Footer = () => {
 
       <div className="footer__copyright">
         <small>&copy; Tolulope Joshua. All rights reserved</small>
+      </div>
+      <div className="baller">
+        <img src={baller} alt="baller" />
       </div>
     </footer>
   )
