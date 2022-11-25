@@ -19,7 +19,7 @@ const Header = () => {
   useEffect(() => {
     const options = {
     	strings: ['Tolulope ^1200 Joshua'],
-      typeSpeed: 280,
+      typeSpeed: 250,
       backSpeed: 50,
       startDelay: 2000,
       backDelay: 2000,
@@ -33,7 +33,7 @@ const Header = () => {
         {translateY: -500, duration: 0},
         {translateY: 0}
       ],
-      delay: 9500,
+      delay: 9000,
       duration: 3000,
       easing: 'easeOutElastic(1, .8)',
     });
