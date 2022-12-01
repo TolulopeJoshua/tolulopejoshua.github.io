@@ -1,9 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.709ee5e2.css",
-    "main.js": "/static/js/main.d1c97d8f.js",
+    "main.js": "/static/js/main.c3ec8929.js",
     "static/media/my-passport2.jpg": "/static/media/my-passport2.06e1c7a0ba2c74bdbeae.jpg",
-    "static/media/resume.pdf": "/static/media/resume.76558e5a561c14e9c849.pdf",
     "static/media/my-passport.jpg": "/static/media/my-passport.54a5243110cf3fc72f09.jpg",
     "static/media/fasion-store.jpg": "/static/media/fasion-store.549cf81e11044e467bdf.jpg",
     "static/media/dashboard.PNG": "/static/media/dashboard.956dd8963e6b20fe0ab9.PNG",
@@ -11,12 +10,13 @@
     "static/media/elibrary.jpg": "/static/media/elibrary.00093f54e92b08e3272d.jpg",
     "static/media/quiz-app.jpg": "/static/media/quiz-app.f0dcc13358508e0bd1b2.jpg",
     "static/media/planner.jfif": "/static/media/planner.b8a06ddfcd646834f408.jfif",
+    "static/media/resume (2).pdf": "/static/media/resume (2).80e0e8183c57328da6a8.pdf",
     "index.html": "/index.html",
     "main.709ee5e2.css.map": "/static/css/main.709ee5e2.css.map",
-    "main.d1c97d8f.js.map": "/static/js/main.d1c97d8f.js.map"
+    "main.c3ec8929.js.map": "/static/js/main.c3ec8929.js.map"
   },
   "entrypoints": [
     "static/css/main.709ee5e2.css",
-    "static/js/main.d1c97d8f.js"
+    "static/js/main.c3ec8929.js"
   ]
 }
