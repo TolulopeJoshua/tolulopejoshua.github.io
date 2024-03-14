@@ -29,7 +29,7 @@ const Services = () => {
             </li>
             <li>
               <BsCheck className='service__list-icon'/>
-              <p>Experience with design tools like Figma and Frameworks such as Bootstrap.</p>
+              <p>Experience with design frameworks such as Bootstrap, Tailwind css.</p>
             </li>
             <li>
               <BsCheck className='service__list-icon'/>

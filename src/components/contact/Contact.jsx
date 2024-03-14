@@ -31,8 +31,9 @@ const Contact = () => {
           <article data-aos="zoom-out-down" className="contact__option">
             <MdOutlineEmail className='contact__option-icon'/>
             <h4>Email</h4>
-            <h5>babtol235@gmail.com</h5>
-            <a href="mailto:babtol235@gmail.com" target='_blank' rel="noreferrer">Send a message</a>
+            <h5>babatundetolulopejoshua</h5>
+            <h5>@yahoo.com</h5>
+            <a href="mailto:babatundetolulopejoshua@yahoo.com" target='_blank' rel="noreferrer">Send a message</a>
           </article>
           <article data-aos="zoom-out-up" className="contact__option">
             <BsWhatsapp className='contact__option-icon'/>

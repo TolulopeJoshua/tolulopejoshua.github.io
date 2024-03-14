@@ -50,7 +50,7 @@ const Experience = () => {
             <article className="experience__details">
               <BsPatchCheckFill className='experience__details-icon'/>
               <div>
-                <h4>NextJs</h4>
+                <h4>NextJs/NuxtJs</h4>
                 <small className="text-light">Experienced</small>
               </div>
             </article>

@@ -10,7 +10,7 @@ import {
   faNode,
   faReact,
 } from '@fortawesome/free-brands-svg-icons'
-import {TbBrandNextjs} from 'react-icons/tb'
+import {TbBrandVue} from 'react-icons/tb'
 import {DiFirebase} from 'react-icons/di'
 
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
@@ -43,7 +43,7 @@ const About = () => {
               {/* <FontAwesomeIcon icon={faJsSquare} color="#EFD81D" /> */}
             </div>
             <div className="face6">
-              <TbBrandNextjs/>
+              <TbBrandVue/>
               {/* <FontAwesomeIcon icon={faGitAlt} color="#333333" /> */}
             </div>
           </div>
@@ -54,7 +54,7 @@ const About = () => {
             <article className="about__card">
               <FaAward className='about__icon'/>
               <h5>Experience</h5>
-              <small>3+ Years Working</small>
+              <small>5+ Years Working</small>
             </article>
 
             <article className="about__card">
@@ -71,7 +71,7 @@ const About = () => {
           </div>
 
           <p>
-            Diligent software engineer with 3+ years of experience in commercial application and software development. 
+            Diligent software engineer with 5+ years of experience in commercial application and software development. 
             Eager to build innovative and cutting-edge business solutions for clients. 
             I am also passionate about learning latest developments and technologies.
           </p>
