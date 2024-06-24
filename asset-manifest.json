@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.709ee5e2.css",
-    "main.js": "/static/js/main.0e229d1a.js",
+    "main.js": "/static/js/main.6e9966fa.js",
     "static/media/my-passport2.jpg": "/static/media/my-passport2.06e1c7a0ba2c74bdbeae.jpg",
     "static/media/ludo-board.png": "/static/media/ludo-board.43cc535e2380541625c1.png",
     "static/media/resume.pdf": "/static/media/resume.1bc117b164a772be5014.pdf",
@@ -13,10 +13,10 @@
     "static/media/planner.jfif": "/static/media/planner.b8a06ddfcd646834f408.jfif",
     "index.html": "/index.html",
     "main.709ee5e2.css.map": "/static/css/main.709ee5e2.css.map",
-    "main.0e229d1a.js.map": "/static/js/main.0e229d1a.js.map"
+    "main.6e9966fa.js.map": "/static/js/main.6e9966fa.js.map"
   },
   "entrypoints": [
     "static/css/main.709ee5e2.css",
-    "static/js/main.0e229d1a.js"
+    "static/js/main.6e9966fa.js"
   ]
 }
