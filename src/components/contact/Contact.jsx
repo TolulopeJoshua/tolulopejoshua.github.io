@@ -11,14 +11,15 @@ const Contact = () => {
   const sendEmail = (e) => {
     e.preventDefault();
 
-    emailjs.sendForm('service_1yh187k', 'template_dg9fnzo', form.current, 'LLErcEZSRlUGBQ138')
+    emailjs.sendForm('service_xwyenj4', 'template_dg9fnzo', form.current, 'LLErcEZSRlUGBQ138')
       .then((result) => {
-          console.log(result.text);
+        console.log(result.text);
+        e.target.reset();
+        alert("Successful. Thank you")
       }, (error) => {
           console.log(error.text);
       });
 
-      e.target.reset();
     }
 
   return (
