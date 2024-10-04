@@ -26,9 +26,9 @@ const Footer = () => {
       <div className="footer__copyright">
         <small>&copy; Tolulope Joshua. All rights reserved</small>
       </div>
-      <div className="baller">
+      {/* <div className="baller">
         <img src={baller} alt="baller" />
-      </div>
+      </div> */}
     </footer>
   )
 }
