@@ -40,7 +40,7 @@ header {
     width: 12rem;
     height: auto;
     margin: 1rem auto;
-    opacity: 60%;
+    opacity: 80%;
     /* position: absolute;
     left: calc(50% - 11rem); */
     margin-top: 6rem;
@@ -50,7 +50,7 @@ header {
 }
 
 .me:hover {
-    opacity: 80%;
+    opacity: 70%;
     cursor: pointer;
     box-shadow: 1px 1px 1px 1px var(--color-light);
 }
