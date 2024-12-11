@@ -81,7 +81,7 @@ const Portfolio = () => {
           <h3>Quiz App (Mobile)</h3>
           <div className="portfolio__item-cta">
             <a href="https://github.com/TolulopeJoshua/Quiz---Guess-the-Chapter" className='btn' target='_blank' rel="noreferrer">Github</a>
-            <a href="https://play.google.com/store/apps/details?id=com.bibleworld.biblequiz_guessthebook" className="btn btn-primary" target='_blank' rel="noreferrer">Live Demo</a>
+            {/* <a href="https://play.google.com/store/apps/details?id=com.bibleworld.biblequiz_guessthebook" className="btn btn-primary" target='_blank' rel="noreferrer">Live Demo</a> */}
           </div>
         </article>
       </div> 
