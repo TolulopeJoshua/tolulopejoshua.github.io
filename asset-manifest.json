@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.709ee5e2.css",
-    "main.js": "/static/js/main.80fde506.js",
+    "main.css": "/static/css/main.59e81938.css",
+    "main.js": "/static/js/main.73314f1a.js",
     "static/media/my-passport2.jpg": "/static/media/my-passport2.06e1c7a0ba2c74bdbeae.jpg",
     "static/media/ludo-board.png": "/static/media/ludo-board.43cc535e2380541625c1.png",
     "static/media/resume.pdf": "/static/media/resume.1bc117b164a772be5014.pdf",
@@ -12,11 +12,11 @@
     "static/media/quiz-app.jpg": "/static/media/quiz-app.f0dcc13358508e0bd1b2.jpg",
     "static/media/api.jpg": "/static/media/api.40358584df825ed510e6.jpg",
     "index.html": "/index.html",
-    "main.709ee5e2.css.map": "/static/css/main.709ee5e2.css.map",
-    "main.80fde506.js.map": "/static/js/main.80fde506.js.map"
+    "main.59e81938.css.map": "/static/css/main.59e81938.css.map",
+    "main.73314f1a.js.map": "/static/js/main.73314f1a.js.map"
   },
   "entrypoints": [
-    "static/css/main.709ee5e2.css",
-    "static/js/main.80fde506.js"
+    "static/css/main.59e81938.css",
+    "static/js/main.73314f1a.js"
   ]
 }
