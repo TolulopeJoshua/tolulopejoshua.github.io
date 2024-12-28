@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.59e81938.css",
-    "main.js": "/static/js/main.3dfd9812.js",
+    "main.css": "/static/css/main.0436f202.css",
+    "main.js": "/static/js/main.21bdb3bc.js",
     "static/media/my-passport2.jpg": "/static/media/my-passport2.06e1c7a0ba2c74bdbeae.jpg",
     "static/media/ludo-board.png": "/static/media/ludo-board.43cc535e2380541625c1.png",
     "static/media/gip-news.PNG": "/static/media/gip-news.0f1099770a037ea07438.PNG",
@@ -12,11 +12,11 @@
     "static/media/elibrary.jpg": "/static/media/elibrary.00093f54e92b08e3272d.jpg",
     "static/media/api.jpg": "/static/media/api.40358584df825ed510e6.jpg",
     "index.html": "/index.html",
-    "main.59e81938.css.map": "/static/css/main.59e81938.css.map",
-    "main.3dfd9812.js.map": "/static/js/main.3dfd9812.js.map"
+    "main.0436f202.css.map": "/static/css/main.0436f202.css.map",
+    "main.21bdb3bc.js.map": "/static/js/main.21bdb3bc.js.map"
   },
   "entrypoints": [
-    "static/css/main.59e81938.css",
-    "static/js/main.3dfd9812.js"
+    "static/css/main.0436f202.css",
+    "static/js/main.21bdb3bc.js"
   ]
 }

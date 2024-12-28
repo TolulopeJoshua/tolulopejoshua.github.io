@@ -28,7 +28,7 @@ const Portfolio = () => {
           <div className="portfolio__item-image">
             <img src={IMG2} alt="e-library" />
           </div>
-          <h3>E-Library with NodeJS</h3>
+          <h3>Christian E-Library with NodeJS</h3>
           <div className="portfolio__item-cta">
             <a href="https://github.com/TolulopeJoshua/GOD-IN-PRINTS" className='btn' target='_blank' rel="noreferrer">Github</a>
             <a href="https://godinprints.org/" className="btn btn-primary" target='_blank' rel="noreferrer">Live Site</a>
@@ -51,7 +51,7 @@ const Portfolio = () => {
           <h3>Global News Site with NextJs and Tailwind CSS</h3>
           <div className="portfolio__item-cta">
             <a href="https://github.com/TolulopeJoshua/global-news" className='btn' target='_blank' rel="noreferrer">Github</a>
-            <a href="https://gipnews.vercel.app/" className="btn btn-primary" target='_blank' rel="noreferrer">Live Site</a>
+            <a href="https://gipnews.vercel.app/" className="btn btn-primary" target='_blank' rel="noreferrer">Live Demo</a>
           </div>
         </article>
         <article data-aos="flip-up" className="portfolio__item">
