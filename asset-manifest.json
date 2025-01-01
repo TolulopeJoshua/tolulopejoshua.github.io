@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.0436f202.css",
-    "main.js": "/static/js/main.92a2ae9b.js",
+    "main.css": "/static/css/main.ec6d804f.css",
+    "main.js": "/static/js/main.f16b748a.js",
     "static/media/my-passport2.jpg": "/static/media/my-passport2.06e1c7a0ba2c74bdbeae.jpg",
     "static/media/ludo-board.png": "/static/media/ludo-board.43cc535e2380541625c1.png",
     "static/media/gip-news.PNG": "/static/media/gip-news.0f1099770a037ea07438.PNG",
     "static/media/my-passport.jpg": "/static/media/my-passport.54a5243110cf3fc72f09.jpg",
     "static/media/fasion-store.jpg": "/static/media/fasion-store.549cf81e11044e467bdf.jpg",
-    "static/media/resume3.pdf": "/static/media/resume3.e0e6312ac86dc236349d.pdf",
+    "static/media/Full-Stack Developer 25a.pdf": "/static/media/Full-Stack Developer 25a.76484a74798549929746.pdf",
     "static/media/dealership.jpg": "/static/media/dealership.17f779ba3aafa33f2f4d.jpg",
     "static/media/elibrary.jpg": "/static/media/elibrary.00093f54e92b08e3272d.jpg",
     "static/media/api.jpg": "/static/media/api.40358584df825ed510e6.jpg",
     "index.html": "/index.html",
-    "main.0436f202.css.map": "/static/css/main.0436f202.css.map",
-    "main.92a2ae9b.js.map": "/static/js/main.92a2ae9b.js.map"
+    "main.ec6d804f.css.map": "/static/css/main.ec6d804f.css.map",
+    "main.f16b748a.js.map": "/static/js/main.f16b748a.js.map"
   },
   "entrypoints": [
-    "static/css/main.0436f202.css",
-    "static/js/main.92a2ae9b.js"
+    "static/css/main.ec6d804f.css",
+    "static/js/main.f16b748a.js"
   ]
 }
