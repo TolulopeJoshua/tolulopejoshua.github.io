@@ -40,8 +40,8 @@ const Portfolio = () => {
           </div>
           <h3>Ludo Game with React and NodeJs</h3>
           <div className="portfolio__item-cta">
-            {/* <a href="https://github.com/TolulopeJoshua/dice-boards" className='btn' target='_blank' rel="noreferrer">Github</a> */}
-            <a href="https://dice-boards.top/" className="btn btn-primary" target='_blank' rel="noreferrer">Live Demo</a>
+            <a href="https://github.com/TolulopeJoshua/dice-boards" className='btn hidden' target='_blank' rel="noreferrer">Github</a>
+            <a href="https://dice-boards-frontend.onrender.com/" className="btn btn-primary" target='_blank' rel="noreferrer">Live Demo</a>
           </div>
         </article>
         <article data-aos="flip-down" className="portfolio__item">

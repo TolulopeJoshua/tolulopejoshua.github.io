@@ -111,6 +111,10 @@ a:hover {
     color: var(--color-bg);
 }
 
+.hidden {
+    visibility: hidden;
+}
+
 img {
     display: block;
     width: 100%;
